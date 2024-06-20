@@ -1,16 +1,14 @@
-## Hi there 👋
+## About Me 👋
 
-<!--
-**ChuksTolu/ChuksTolu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+**ChuksTolu** is a ✨ Microsoft Azure Certified Data Scientist Associate ✨ 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on data analytics for AFRICANXTBUILD, Content Strategy for Espirit De Mode and Visual Storytelling for CreativesXtra
+- 🌱 I’m currently learning on Datacamp, Microsoft learn, IBM, Nvidia and Linkedin Learning platform.
+- 👯 I’m looking to collaborate on projects to help put into practice all I'm learning.
+- 🤔 I’m looking for help with Internships, Mentorship, opportunities
+- 💬 Ask me about Strategy, Text to image generative AI
+- 📫 How to reach me: message through any of the listed social mediaplatforms
+  
+- ⚡ Fun fact: I'm a Warcraft3 strategy gaming champion
+
